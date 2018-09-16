@@ -1,0 +1,27 @@
+{
+  "name": "tailwindcss-bg-overlays",
+  "version": "1.0.0",
+  "description": "A Tailwindcss plugin adding bg-overlay utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benface/tailwindcss-gradients.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "plugin"
+  ],
+  "author": "Myles Hyson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benface/tailwindcss-gradients/issues"
+  },
+  "homepage": "https://github.com/benface/tailwindcss-gradients#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
