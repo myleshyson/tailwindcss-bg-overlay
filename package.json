@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/benface/tailwindcss-gradients.git"
+    "url": "git+https://github.com/myleshyson/tailwindcss-bg-overlay.git"
   },
   "keywords": [
     "tailwind",
@@ -18,9 +18,9 @@
   "author": "Myles Hyson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/benface/tailwindcss-gradients/issues"
+    "url": "https://github.com/myleshyson/tailwindcss-bg-overlay/issues"
   },
-  "homepage": "https://github.com/benface/tailwindcss-gradients#readme",
+  "homepage": "https://github.com/myleshyson/tailwindcss-bg-overlay#readme",
   "dependencies": {
     "lodash": "^4.17.11"
   }
